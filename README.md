@@ -76,8 +76,13 @@ Se trabajó con tres casos complementarios:
 
 ---
 
-## Visualizaciones
+##  Visualizaciones
+
+### Dashboard Telecomunicaciones
 ![Dashboard](screenshots/dashboard.png)
+
+### Resultados Test A/B
+![A/B Test](screenshots/ab_test.png)
 
 ---
 
